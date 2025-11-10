@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+
+# 虚拟环境
+music_env/
+
+# 环境变量
+.env
+.venv
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+
+# 音频文件（如果较大）
+assets/audio/*.mp3
+!assets/audio/.gitkeep
