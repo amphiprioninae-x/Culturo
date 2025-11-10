@@ -1,0 +1,32 @@
+{
+    "guzheng": {
+        "id": "guzheng",
+        "name": "古筝",
+        "country": "中国",
+        "position": [39.9042, 116.4074],
+        "description": "古筝是中国传统弹拨乐器，有2500多年历史，音色优美，表现力丰富。",
+        "audio_url": "/api/audio/guzheng",
+        "color": "#FF6B6B",
+        "family": "string"
+    },
+    "sitar": {
+        "id": "sitar",
+        "name": "西塔琴", 
+        "country": "印度",
+        "position": [28.6139, 77.2090],
+        "description": "西塔琴是印度最具代表性的古典乐器，音色悠扬，富有神秘色彩。",
+        "audio_url": "/api/audio/sitar",
+        "color": "#4ECDC4",
+        "family": "string"
+    },
+    "bagpipes": {
+        "id": "bagpipes",
+        "name": "风笛",
+        "country": "苏格兰",
+        "position": [55.9533, -3.1883],
+        "description": "风笛是苏格兰的传统乐器，声音洪亮，常用于庆典和军事场合。",
+        "audio_url": "/api/audio/bagpipes", 
+        "color": "#45B7D1",
+        "family": "wind"
+    }
+}

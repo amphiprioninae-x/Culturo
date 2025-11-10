@@ -1,0 +1,18 @@
+[
+    {
+        "id": "q1",
+        "question": "古筝通常有多少根弦？",
+        "options": ["16根", "21根", "25根", "30根"],
+        "correct_answer": "21根",
+        "explanation": "现代古筝通常有21根弦，但历史上弦数有所不同。",
+        "instrument_id": "guzheng"
+    },
+    {
+        "id": "q2", 
+        "question": "西塔琴起源于哪个国家？",
+        "options": ["中国", "印度", "日本", "埃及"],
+        "correct_answer": "印度",
+        "explanation": "西塔琴是13世纪在印度发展的乐器。",
+        "instrument_id": "sitar"
+    }
+]
